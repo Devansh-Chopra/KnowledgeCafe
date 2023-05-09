@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–‹ÖÎøÿÿÿÿ8—üƒßş0
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8¨—ÖŞş0
+L
+java:S1068"*Remove this unused "gender" private field.(»¯–°øÿÿÿÿ8©—ÖŞş0
+F
+java:S1068")Remove this unused "breed" private field.(ÉÚğ»8ÊµØŞş0
+M
+java:S1068"0Remove this unused "isVaccinated" private field.(ßÉ®‡8ª—ÖŞş0
+E
+java:S1068	")Remove this unused "price" private field.(ˆÑ€(8ª—ÖŞş0
